@@ -16,9 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "Current projects", icon: adress-card}
-  - {file: "README.md", title: "Publications", icon: adress-card}
+  - {file: "README.md", title: "Research", icon: adress-card}
   - {file: "natrinh.pdf", title: "CV", icon:CV}  
+  - {file: "README.md", title: "Contact", icon: adress-card}  
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nhatan.trinh@hu-berlin.de"}
