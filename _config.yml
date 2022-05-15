@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nhatantrinh"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=9nAOOBoAAAAJ&hl=en"}
   - {title: Mail, icon: envelope, url: "mailto:nhatan.trinh@hu-berlin.de"}
-  - {title: Github, icon: git, url: "https://github.com/NATrinh"}
+  - {title: Github, icon: github, url: "https://github.com/NATrinh"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
