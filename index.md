@@ -9,4 +9,4 @@ My research focuses on trends, causes, and consequences of social inequality fro
 
 I have taught undergraduate and graduate courses on quantitative methods, social policy, and intergenerational social mobility.
 
-![portrait](/assets/test.jpg))
+![portrait](/assets/test.jpg)
