@@ -1,6 +1,6 @@
 title: "Nhat An Trinh"
 author: "Nhat An Trinh"
-description: "2022 Nhat An Trinh. Made with Jekyll using the Contrast theme."
+description: "2022 Nhat An Trinh. Made with Jekyll using the [Contrast](https://github.com/niklasbuschmann/contrast) theme."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
