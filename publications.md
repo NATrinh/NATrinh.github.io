@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Publications"
 ---
 
 Trinh, Nhat An, and Bukodi, Erzsébet. 2022. ‘Intergenerational Class Mobility of Labour Market Entrants in Germany and the UK since the 1950s’, [European Sociological Review](https://doi.org/10.1093/esr/jcab028).
