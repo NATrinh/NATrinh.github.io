@@ -1,6 +1,6 @@
 title: "Nhat An Trinh"
 author: "Nhat An Trinh"
-description: "2022 Nhat An Trinh."
+description: "Copyright 2022 Nhat An Trinh."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,10 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon:home}
-  - {file: "index.html", title: "Current projects", icon:home}
-  - {file: "index.html", title: "Publications", icon:home}
+  - {file: "README.md", title: "Current projects", icon: adress-card}
+  - {file: "README.md", title: "Publications", icon: adress-card}
   - {file: "natrinh.pdf", title: "CV", icon:CV}  
-  - {file: "README.md", title: "About me", icon: adress-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nhatan.trinh@hu-berlin.de"}
