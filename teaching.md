@@ -3,11 +3,11 @@ layout: page
 title: "Teaching"
 ---
 
-#### Undergraduate level
+### Undergraduate level
 
 - *Social Policy Option Paper (224)*. BA Philosophy, Politics and Economics (PPE), BA History and Politics, BA Human Sciences, University of Oxford, Michaelmas 2017 & Hilary 2018.
 
-#### Graduate level
+### Graduate level
 
 - *Quantative Research Methods*. MSc/MPhil Comparative Social Policy (with Dr
 Erzsébet Bukodi and Dr Alexi Gugushvili), University of Oxford, Michaelmas Term 2018 & 2019.
