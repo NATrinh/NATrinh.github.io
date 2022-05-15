@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications"
+title: "Journal articles"
 ---
 
 - **Trinh, Nhat An**, and Bukodi, Erzsébet. 2022. ‘Corrigendum to: Intergenerational Class Mobility of Labour Market Entrants in Germany and the UK since the 1950s’, *[European Sociological Review](https://academic.oup.com/esr/article/38/2/336/6381331)*.
