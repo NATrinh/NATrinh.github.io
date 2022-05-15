@@ -1,6 +1,6 @@
 title: "Nhat An Trinh"
 author: "Nhat An Trinh"
-description: "2022 Nhat An Trinh. Made with Jekyll using the contrast theme."
+description: "2022 Nhat An Trinh. Made with Jekyll using the Contrast theme."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,15 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "Projects"}
   - {file: "index.html", title: "Publications"}
-  - {file: "index.html", title: "In progress"}
   - {file: "natrinh.pdf", title: "CV", icon:CV}  
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nhatan.trinh@hu-berlin.de"}
-  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=9nAOOBoAAAAJ&hl=en"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nhatantrinh"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=9nAOOBoAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
