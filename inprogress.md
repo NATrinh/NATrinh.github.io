@@ -12,7 +12,7 @@ Trinh, Nhat An. ‘Why do Trends in Social Fluidity at Labour Market Entry and O
 
 Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Wealth Homogamy: Levels and Causes in Britain and Germany.’
 
-Trinh, Nhat An. ‘Does social origin matter for the gender wealth gap?’
+Trinh, Nhat An. ‘Does Social Origin matter for the Gender Wealth Gap?’
 
 Trinh, Nhat An. ‘Parental Employment and Children’s Education in Historical Perspective’.
 
