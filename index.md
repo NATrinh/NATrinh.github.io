@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-I am a post-doctoral researcher at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en) and member of the [Emmy Noether-group](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) ['MyWealth'](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/research/mywealth_eng) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en?set_language=en).
+I am a post-doctoral researcher at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en) and member of the Emmy Noether Research Group [MyWealth](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/research/mywealth_eng) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en?set_language=en).
 
 My research focuses on trends, causes, and consequences of social inequality from an intra- and intergenerational perspective. I am interested in examining how disadvantage emerges within the family, develops over the life-course, and is transmitted from parents to their children. Most of my work draws on large-scale, respresentative household survey data and has a comparative outlook. 
 
