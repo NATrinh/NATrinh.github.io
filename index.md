@@ -9,6 +9,6 @@ My research focuses on trends, causes, and consequences of social inequality fro
 
 Before coming to Berlin, I completed a DPhil in Social Policy at the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/) and [Wolfson College](https://www.wolfson.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/). My doctoral research was funded by the German National Academic Scholarship Foundation and won the Barnett Prize for best paper as well as the ISA RC28 Alan C. Kerckhoff Travel Award.
 
-Get in touch via [e-mail](nhatan.trinh@hu-berlin.de).
+Get in touch via nhatan.trinh(at)hu-berlin.de
 
 ![portrait](/assets/test.jpg)
