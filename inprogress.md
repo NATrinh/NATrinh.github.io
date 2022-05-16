@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "In progress"
+title: "Ongoing"
 ---
 
 ### Under review
