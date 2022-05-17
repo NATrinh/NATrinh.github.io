@@ -3,7 +3,7 @@ layout: page
 # title: "About"
 ---
 
-<img align="left" width="250" height="355" src="/assets/portrait.jpg">
+<img align="left" width="270" height="370" src="/assets/portrait.jpg">
 
 
 
