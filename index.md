@@ -13,3 +13,4 @@ Get in touch via [nhatan.trinh@hu-berlin.de](mailto:nhatan.trinh@hu-berlin.de).
 
 <img width="270" height="370" src="/assets/portrait.jpg">
 
+Photo: Antara Majumdar 
