@@ -3,8 +3,9 @@ layout: page
 # title: "About"
 ---
 
-![portrait](/assets/portrait.jpg){: style="float: left"}
-Photo:
+<img align="left" width="100" height="100" src="/assets/portrait.jpg">
+#![portrait](/assets/portrait.jpg){: style="float: left"}
+#Photo:
 
 I am a post-doctoral researcher at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en) and member of the Emmy-Noether Research Group [MyWealth](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/research/mywealth_eng) at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en?set_language=en).
 
