@@ -11,5 +11,5 @@ Before coming to Berlin, I completed a DPhil in Social Policy at the [Department
 
 Get in touch via [nhatan.trinh@hu-berlin.de](mailto:nhatan.trinh@hu-berlin.de).
 
-![portrait](/assets/test.jpg)
+![portrait](/assets/portrait.jpg)
 Photo: *Three Dancers, Mills College, 1929* by Imogen Cunningham.
