@@ -11,6 +11,6 @@ Before coming to Berlin, I completed a DPhil in Social Policy at the [Department
 
 Get in touch via [nhatan.trinh@hu-berlin.de](mailto:nhatan.trinh@hu-berlin.de). 
 
-<img width="270" height="370" src="/assets/portrait.jpg">
+<img align="left" hspace="20" vspace="20" width="270" height="370" src="/assets/portrait.jpg">
 
 Photo: Antara Majumdar 
