@@ -5,7 +5,7 @@ title: "Teaching"
 
 ### Undergraduate level
 
-- *Social Policy Option Paper (224)*. BA Philosophy, Politics and Economics (PPE), BA History and Politics, BA Human Sciences, University of Oxford, Michaelmas 2017 & Hilary 2018.
+- *Social Policy Option Paper (224)*. BA Philosophy, Politics and Economics (PPE), BA History and Politics, BA Human Sciences, University of Oxford, Michaelmas 2017 & Hilary Term 2018.
 
 ### Graduate level
 
