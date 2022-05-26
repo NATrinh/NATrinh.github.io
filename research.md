@@ -22,3 +22,7 @@ of Social Policy*, revise & resubmit, [preprint](http://doi.org/10.31235/osf.io/
 - Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Wealth Homogamy: Levels and Causes in Britain and Germany.’
 - Trinh, Nhat An. ‘Does Social Origin matter for the Gender Wealth Gap?’
 - Trinh, Nhat An. ‘Parental Employment and Children’s Education in Historical Perspective’.
+
+### Thesis
+
+- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. University of Oxford.
