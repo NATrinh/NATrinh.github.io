@@ -9,6 +9,5 @@ title: "Teaching"
 
 ### Graduate level
 
-- *Quantative Research Methods*. MSc/MPhil Comparative Social Policy (with Dr
-Erzsébet Bukodi and Dr Alexi Gugushvili), University of Oxford, Michaelmas Term 2018 & 2019.
+- *Quantative Research Methods*. MSc/MPhil Comparative Social Policy, University of Oxford, Michaelmas Term 2018 & 2019.
 - *Normative and Empirical Perspectives on Intergenerational Inequalities*. BA/MA Philosophy and Economics, Universität Bayreuth, Summer Semester 2018.
