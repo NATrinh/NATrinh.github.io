@@ -25,4 +25,4 @@ of Social Policy*, revised & resubmitted, [preprint](http://doi.org/10.31235/osf
 
 ### Thesis
 
-- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. University of Oxford.
+- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
