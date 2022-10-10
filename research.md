@@ -12,8 +12,8 @@ title: "Research"
 
 ### Under review
 
-- Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *European Sociological Review*, revised & resubmitted, [preprint](https://www.scripts-berlin.eu/publications/working-paper-series/Working-Paper-12-2021/index.html).
 - Trinh, Nhat An. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, *Research in Social Stratification and Mobility*, revised & resubmitted.
+- Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *European Sociological Review*, revised & resubmitted, [preprint](https://www.scripts-berlin.eu/publications/working-paper-series/Working-Paper-12-2021/index.html).
 
 ### Thesis
 
