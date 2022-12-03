@@ -28,7 +28,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/NATrinh"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nhatantrinh"}
-  - {title: Mastodon, icon: mastodon, url: "<a rel="me" href="https://sciences.social/@natrinh">Mastodon</a>"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/nhatantrinh"}
+ # - {title: Mastodon, icon: mastodon, url: "<a rel="me" href="https://sciences.social/@natrinh">Mastodon</a>"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=9nAOOBoAAAAJ&hl=en"}
   - {title: Mail, icon: envelope, url: "mailto:nhatan.trinh@hu-berlin.de"}
 
