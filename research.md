@@ -3,8 +3,6 @@ layout: page
 title: "Publications"
 ---
 
-### Journal articles
-
 {: reversed="reversed"} 
 5. Trinh, Nhat An. Forthcoming. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, *[Research in Social Stratification and Mobility](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737)*.
 4. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, *[Journal of Social Policy](https://doi.org/10.1017/S0047279422000848)*.
