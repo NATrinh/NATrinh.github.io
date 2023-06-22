@@ -11,7 +11,7 @@ title: "Research"
 4. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, *Socius: Sociological Research for a Dynamic World*, 7, all authors contributed equally. [[paper](https://doi.org/10.1177/23780231211019890)] [[data](https://osf.io/bca95/)] 
 5. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, *European Sociological Review*, 37(5):713–730. [[paper](https://doi.org/10.1093/esr/jcaa067)] [[replication files](https://osf.io/4wx26/)]
 
-### In preparation
+    ### In preparation
 
 6. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *revised & resubmitted*. [[preprint](https://www.scripts-berlin.eu/publications/working-paper-se*ries/Working-Paper-12-2021/index.html)]
 7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *under review*.
