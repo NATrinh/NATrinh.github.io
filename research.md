@@ -5,12 +5,20 @@ title: "Research"
 
 ### Peer-reviewed
 
-{: reversed="reversed"} 
-5. Trinh, Nhat An. 2023. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, *Research in Social Stratification and Mobility*, 83:1–12. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737)] [replication files]
-4. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, *Journal of Social Policy*, online first. [[paper](https://doi.org/10.1017/S0047279422000848)] [replication files]
+1. Trinh, Nhat An. 2023. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, *Research in Social Stratification and Mobility*, 83:1–12. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737)] [replication files]
+2. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, *Journal of Social Policy*, online first. [[paper](https://doi.org/10.1017/S0047279422000848)] [replication files]
 3. Trinh, Nhat An, and Bukodi, Erzsébet. 2022. ‘Intergenerational Class Mobility of Labour Market Entrants in Germany and the UK since the 1950s’, *European Sociological Review*, 38(1):37–53. [[paper](https://doi.org/10.1093/esr/jcab028)] [replication files]
-2. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, *Socius: Sociological Research for a Dynamic World*, 7, all authors contributed equally. [[paper](https://doi.org/10.1177/23780231211019890)] [[data](https://osf.io/bca95/)] 
-1. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, *European Sociological Review*, 37(5):713–730. [[paper](https://doi.org/10.1093/esr/jcaa067)] [[replication files](https://osf.io/4wx26/)]]
+4. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, *Socius: Sociological Research for a Dynamic World*, 7, all authors contributed equally. [[paper](https://doi.org/10.1177/23780231211019890)] [[data](https://osf.io/bca95/)] 
+5. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, *European Sociological Review*, 37(5):713–730. [[paper](https://doi.org/10.1093/esr/jcaa067)] [[replication files](https://osf.io/4wx26/)]
+
+### In preparation
+
+6. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *revised & resubmitted*. [[preprint](https://www.scripts-berlin.eu/publications/working-paper-se*ries/Working-Paper-12-2021/index.html)]
+7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *under review*.
+8. Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Dynamics of Wealth Homogamy in Couples’, *under review*. 
+9. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. ‘Distributive Principles in Parental Transfers.’
+10. Lersch, Philipp, Trinh, Nhat An, and Kaiser, Caspar. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course.’
+11. Trinh, Nhat An, and Wiedner, Jonas. ‘Status Reproduction among Children of Immigrants in Europe.’
 
 ### Dissertation
 
