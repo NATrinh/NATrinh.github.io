@@ -6,7 +6,7 @@ title: "Teaching"
 ### Undergraduate level
 
 - *Normative and Empirical Perspectives on Intergenerational Inequalities*. Course convenor, BA Philosophy and Economics, University of Bayreuth, Summer 2018.
-- *Social Policy*. Tutor, BA Philosophy, Politics and Economics (PPE), BA History and Politics, BA Human Sciences, University of Oxford, Michaelmas 2017 & Hilary 2018.
+- *Social Policy*. Tutor, BA Philosophy, Politics and Economics/BA History and Politics/BA Human Sciences, University of Oxford, Michaelmas 2017 & Hilary 2018.
 
 ### Graduate level
 
