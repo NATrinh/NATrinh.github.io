@@ -5,11 +5,11 @@ title: "Research"
 
 ### Peer-reviewed
 
-1. Trinh, Nhat An. 2023. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, *Research in Social Stratification and Mobility*, 83:1–12. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737)] [replication files]
-2. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, *Journal of Social Policy*, online first. [[paper](https://doi.org/10.1017/S0047279422000848)] [replication files]
-3. Trinh, Nhat An, and Bukodi, Erzsébet. 2022. ‘Intergenerational Class Mobility of Labour Market Entrants in Germany and the UK since the 1950s’, *European Sociological Review*, 38(1):37–53. [[paper](https://doi.org/10.1093/esr/jcab028)] [replication files]
-4. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, *Socius: Sociological Research for a Dynamic World*, 7, all authors contributed equally. [[paper](https://doi.org/10.1177/23780231211019890)] [[data](https://osf.io/bca95/)] 
-5. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, *European Sociological Review*, 37(5):713–730. [[paper](https://doi.org/10.1093/esr/jcaa067)] [[replication files](https://osf.io/4wx26/)]
+1. Trinh, Nhat An. 2023. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737), 83:1–12. [replication files]
+2. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, [*Journal of Social Policy*](https://doi.org/10.1017/S0047279422000848), online first. [replication files]
+3. Trinh, Nhat An, and Bukodi, Erzsébet. 2022. ‘Intergenerational Class Mobility of Labour Market Entrants in Germany and the UK since the 1950s’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcab028), 38(1):37–53. [replication files]
+4. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, [*Socius: Sociological Research for a Dynamic World*(https://doi.org/10.1177/23780231211019890)], 7, all authors contributed equally. [[data](https://osf.io/bca95/)] 
+5. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcaa067), 37(5):713–730. [[replication files](https://osf.io/4wx26/)]
 
 ### In preparation
 
