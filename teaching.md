@@ -16,4 +16,4 @@ title: "Teaching"
 ### PhD
 
 - *Social Policy and Crises – Multiple Perspectives*. Faculty member, European Social Policy Analysis Network 
-PhD Workshop, Berlin Social Science Center (WZB), March 2023.
+PhD Workshop, WZB Berlin Social Science Center, March 2023.
