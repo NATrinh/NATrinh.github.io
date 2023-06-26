@@ -14,8 +14,8 @@ title: "Research"
 ### In preparation
 
 {:start="6"}
-6. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *revised & resubmitted*. [[preprint](https://www.scripts-berlin.eu/publications/working-paper-series/Working-Paper-12-2021/index.html)]
-7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *under review*.
+6. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, *revised & resubmitted*. [[working paper](https://www.scripts-berlin.eu/publications/working-paper-series/Working-Paper-12-2021/index.html)]
+7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *under review*. [[working paper](https://osf.io/preprints/socarxiv/fgc9t/)]
 8. Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Dynamics of Wealth Homogamy in Couples’, *under review*. 
 9. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. ‘Distributive Principles in Parental Transfers.’
 10. Lersch, Philipp, Trinh, Nhat An, and Kaiser, Caspar. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course.’
