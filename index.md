@@ -5,7 +5,7 @@ layout: page
 
 ![Photo](/assets/portrait.jpg){: height="75px" width="295" style="float:left; padding-right:40px"}
 
-I am a sociologist at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
+Hi, I'm Nhat An. I am a sociologist at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
 My research focuses on trends, causes, and consequences of social inequality from an intra- and intergenerational perspective. I am interested in examining how disadvantage emerges within the family, develops over the life-course, and is transmitted from parents to children. Ongoing work investigates how social class structures earnings trajectories, the role of parental gifts and inheritances for wealth inequality, and social mobility among children of immigrants.
 
