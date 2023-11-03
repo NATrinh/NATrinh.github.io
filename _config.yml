@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  # - {file: "publications.md", title: "Publications"}  
   #- {file: "inprogress.md", title: "Ongoing"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "upcoming.md", title: "Upcoming"}  
+  - {file: "upcoming.md", title: "Talks"}  
   - {url: "/CV_NATrinh.pdf", title: CV}  
   
 

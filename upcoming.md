@@ -14,4 +14,4 @@ title: "Upcoming"
 
 ### Conferences and workshops
 
-04-05/12/2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Advancements in social class analysis in the digital age*, JRC European Commission, Sevilla.
+04-05/12/2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Advancements in social class analysis in the digital age*, JRC European Commission, Sevilla.
