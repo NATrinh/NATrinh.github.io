@@ -13,4 +13,4 @@ Previously, I was a research fellow at the [Department of Social Sciences](https
 
 Get in touch via [nhatan.trinh@spi.ox.ac.uk](mailto:nhatan.trinh@spi.ox.ac.uk). 
 
-Photo: Tom Weller Photography
+Photo: Antara Majumdar
