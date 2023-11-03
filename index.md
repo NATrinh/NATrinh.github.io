@@ -3,7 +3,7 @@ layout: page
 # title: "About"
 ---
 
-![Photo](/assets/portrait_old.jpg){:width="600px" style="float:left; padding-right:40px"}
+![Photo](/assets/portrait_old.jpg){:width="500px" style="float:left; padding-right:40px"}
 
 Hi, I'm Nhat An. I am a sociologist at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
