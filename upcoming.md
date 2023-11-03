@@ -5,7 +5,7 @@ title: "Upcoming"
 
 ### Talks
 
-26/10/2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Class Origin, Intergenerational Transfers, and the Gender Wealth Gap*, INET Researcher Seminar, University of Oxford.
+26/10/2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Class Origin, Intergenerational Transfers, and the Gender Wealth Gap*, INET Oxford Researcher Seminar.
 
 17/11/2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Principle of Dynastic Succession in Wealth Transmission*, CRIS Seminar Series, Sciences Po Paris.
 
