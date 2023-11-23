@@ -11,6 +11,9 @@ Class Origin, Intergenerational Transfers, and the Gender Wealth Gap, INET Oxfor
 *17/11/2023* <br>
 The Principle of Dynastic Succession in Wealth Transmission, CRIS Seminar Series, Sciences Po Paris. <br>
 
+*27/11/2023* <br>
+Can Migration Disrupt the Transmission of Inequality Across Generations?, DSPI Oxford Inequality and Policy Research Group Meeting. <br>
+
 *29/01/2024* <br>
 The Principle of Dynastic Succession in Wealth Transmission, Research Seminar, WU Vienna. <br>
 
