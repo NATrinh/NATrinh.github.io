@@ -18,7 +18,7 @@ title: "Research"
 8. Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Dynamics of Wealth Homogamy in Couples’, *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 9. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. ‘The Principle of Dynastic Succession in Wealth Transmission.’
 10. Lersch, Philipp, Trinh, Nhat An, and Kaiser, Caspar. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course.’
-11. Trinh, Nhat An, and Wiedner, Jonas. ‘Status Reproduction among Children of Immigrants in Europe.’
+11. Trinh, Nhat An, and Wiedner, Jonas. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?’
 
 ### Dissertation
 
