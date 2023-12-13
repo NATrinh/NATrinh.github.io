@@ -19,7 +19,7 @@ title: "Talks"
 ### Past
 
 **04-05/12/2023** <br>
-*Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course*, International Workshop, JRC European Commission, Seville. [[Programme](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en)] <br>
+*Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course*, International Workshop, JRC European Commission, Seville. [[Programme and recordings](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en)] <br>
 
 **27/11/2023** <br>
 *Can Migration Disrupt the Transmission of Inequality Across Generations?*, Inequality and Policy Research Group, University of Oxford. <br>
