@@ -5,9 +5,9 @@ title: "Talks"
 
 ### Upcoming
 
+**05/03/2024** <br>
+*The Principle of Dynastic Succession in Wealth Transmission*, Inequalities Seminar Series, LSE International Inequalities Institute (III). <br>
 
-**29/01/2024** <br>
-*The Principle of Dynastic Succession in Wealth Transmission*, INEQ Research Seminar, WU Vienna. [[Link to registration](https://www.wu.ac.at/en/ineq/rs-registration-trinh/)] <br>
 
 **10-12/04/2024** <br>
 *The Principle of Dynastic Succession in Wealth Transmission*, In_equality Conference, University of Konstanz. [[Programme](https://inequality-conference.de/)] <br>
@@ -17,6 +17,9 @@ title: "Talks"
 
 
 ### Past
+
+**29/01/2024** <br>
+*The Principle of Dynastic Succession in Wealth Transmission*, INEQ Research Seminar, WU Vienna. <br>
 
 **04-05/12/2023** <br>
 *Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course*, International Workshop, JRC European Commission, Seville. [[Recording](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en)] <br>
