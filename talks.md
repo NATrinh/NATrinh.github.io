@@ -6,7 +6,7 @@ title: "Talks"
 ### Upcoming
 
 **05/03/2024** <br>
-*The Principle of Dynastic Succession in Wealth Transmission*, Inequalities Seminar Series, LSE International Inequalities Institute (III). <br>
+*The Principle of Dynastic Succession in Wealth Transmission*, Inequalities Seminar Series, LSE International Inequalities Institute (III). [[Abstract and registration](https://www.lse.ac.uk/International-Inequalities/events/Inequalities-Seminar-Series)] <br>
 
 
 **10-12/04/2024** <br>
