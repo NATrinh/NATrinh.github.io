@@ -6,7 +6,7 @@ title: "Teaching"
 ### Undergraduate level
 
 - *Normative and Empirical Perspectives on Intergenerational Inequalities*. Seminar, BA Philosophy and Economics, University of Bayreuth, 2018.
-- *Social Policy*. Tutorial, Philosophy, Politics and Economics/History and Politics/Human Sciences, University of Oxford, 2017 & 2018.
+- *Social Policy*. Tutorial, BA Philosophy, Politics and Economics/History and Politics/Human Sciences, University of Oxford, 2017 & 2018.
 
 ### Graduate level
 
