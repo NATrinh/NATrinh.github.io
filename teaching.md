@@ -3,17 +3,17 @@ layout: page
 title: "Teaching"
 ---
 
-### Undergraduate
+### Undergraduate level
 
-- *Normative and Empirical Perspectives on Intergenerational Inequalities*. Course convenor, BA Philosophy and Economics, University of Bayreuth, Summer 2018.
-- *Social Policy*. Tutor, Philosophy, Politics and Economics/History and Politics/Human Sciences, University of Oxford, Michaelmas 2017 & Hilary 2018.
+- *Normative and Empirical Perspectives on Intergenerational Inequalities*. Seminar, BA Philosophy and Economics, University of Bayreuth, 2018.
+- *Social Policy*. Tutorial, Philosophy, Politics and Economics/History and Politics/Human Sciences, University of Oxford, 2017 & 2018.
 
-### Graduate
+### Graduate level
 
-- *Social Mobility in Germany*. Course convenor, MA Social Sciences, Humboldt University of Berlin, Winter 2022/23.
-- *Quantative Research Methods*. Teaching assistant, MSc/MPhil Comparative Social Policy, University of Oxford, Michaelmas 2018 & 2019.
+- *Social Mobility in Germany*. Seminar, MA Social Sciences, Humboldt University Berlin, 2022/23.
+- *Quantative Research Methods*. Lecture and workshop, MSc/MPhil Comparative Social Policy, University of Oxford, 2018 & 2019.
 
-### PhD
+### PhD level
 
-- *Social Policy and Crises – Multiple Perspectives*. Faculty member, European Social Policy Analysis Network 
-PhD Workshop, WZB Berlin Social Science Center, March 2023.
+- *Social Policy and Crises – Multiple Perspectives*. European Social Policy Analysis Network 
+PhD Workshop, WZB Berlin Social Science Center, 2023.

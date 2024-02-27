@@ -14,11 +14,12 @@ title: "Research"
 ### In preparation
 
 {:start="7"}
-7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *revise & resubmit*. &#124; [working paper](https://osf.io/preprints/socarxiv/fgc9t/)
+7. Trinh, Nhat An. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, *revised & resubmitted*. &#124; [working paper](https://osf.io/preprints/socarxiv/fgc9t/)
 8. Trinh, Nhat An, Lersch, Philipp, and Schunck, Reinhard. ‘Dynamics of Wealth Homogamy in Couples’, *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
-9. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. ‘The Principle of Dynastic Succession in Wealth Transmission.’
+9. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. ‘Unequal Estate Division for Wealth Perpetuation: Primogeniture, Patrilineality, and Portfolios.’
 10. Lersch, Philipp, Trinh, Nhat An, and Kaiser, Caspar. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course.’
 11. Trinh, Nhat An, and Wiedner, Jonas. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?’
+12. Moawad, Jad, Nolan, Brian, and Trinh, Nhat An. ‘Social Class and Wealth in Comparative Perspective.’
 
 ### Dissertation
 
