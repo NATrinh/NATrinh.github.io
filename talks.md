@@ -5,11 +5,11 @@ title: "Talks"
 
 ### Upcoming
 
-**10-12 April 2024** <br>
+**11 April 2024** <br>
 *Can Migration Disrupt the Transmission of Inequality Across Generations?* <br> 
 International Conference Migration as a Multi-sited Phenomenon, Universidad Carlos III de Madrid <br> [Programme](https://sites.google.com/view/multisitemig/) <br>
 
-**25-26 April 2024** <br>
+**26 April 2024** <br>
 *Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> In_equality Conference, University of Konstanz <br>
 [Programme](https://inequality-conference.de/) <br>
 
