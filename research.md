@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ### Peer-reviewed
-1. Trinh, Nhat An. Forthcoming. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054).
+1. Trinh, Nhat An. 2024. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054).
 2. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. 2023. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcad073).
 3. Trinh, Nhat An. 2023. ‘Why do Trends in Social Fluidity at Labour Market Entry and Occupational Maturity Differ? Evidence from Germany and the UK’, [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/science/article/abs/pii/S0276562422000737), 83:1–12. &#124; [replication files](https://osf.io/vb5fd/)
 4. Trinh, Nhat An. 2022. ‘The Effect of Social Benefit Reform on Educational Inequality’, [*Journal of Social Policy*](https://doi.org/10.1017/S0047279422000848), online first. &#124; [replication files](https://osf.io/3cdqv/)
