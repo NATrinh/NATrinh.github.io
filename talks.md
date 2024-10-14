@@ -6,7 +6,7 @@ title: "Talks"
 ### Upcoming
 
 **28 October 2024** <br>
-*Class Origin, Intergenerational Transfers, and the Gender Wealth Gap* <br> Department of Sociology Research Seminar <br>
+*Class Origin, Intergenerational Transfers, and the Gender Wealth Gap* <br> Department of Sociology Research Seminar, University of Oxford <br>
 [Link to term card](https://www.sociology.ox.ac.uk/seminars) <br>
 
 **4 December 2024** <br>
