@@ -5,9 +5,9 @@ title: "Talks"
 
 ### Upcoming
 
-**12-14 September 2024** <br>
-*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> ECSR 2024 Conference, Barcelona <br>
-[Link to programme](https://ecsr2024.com/programme/) <br>
+**28 October 2024** <br>
+*Class Origin, Intergenerational Transfers, and the Gender Wealth Gap* <br> Department of Sociology Research Seminar <br>
+[Link to term card](https://www.sociology.ox.ac.uk/seminars) <br>
 
 **4 December 2024** <br>
 *Class Origin, Intergenerational Transfers, and the Gender Wealth Gap* <br> QSS ad CLS Seminar series, University College London <br>
