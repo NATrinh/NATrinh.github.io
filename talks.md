@@ -5,9 +5,9 @@ title: "Talks"
 
 ### Upcoming
 
-**4 December 2024** <br>
-*Class Origin, Intergenerational Transfers, and the Gender Wealth Gap* <br> QSS ad CLS Seminar series, University College London <br>
-[Link to programme](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/quantitative-social-science/qss-and-cls-seminar-series)
+**5 February 2025** <br>
+*The Unequal Transmission of Wealth within Families* <br> Sociology Seminar, Nuffield College Oxford <br>
+[Link to programme](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/)
 
 ### Recordings
 
