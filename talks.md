@@ -5,11 +5,15 @@ title: "Talks"
 
 ### Upcoming
 
-**5 February 2025** <br>
-*The Unequal Transmission of Wealth within Families* <br> Sociology Seminar, Nuffield College Oxford <br>
+**15 May 2025** <br>
+*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> Departmental Research Colloquium, Department of Social Policy and Intervention, University of Oxford <br>
 [Link to programme](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/)
 
 ### Recordings
+
+**5 March 2024** <br>
+*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br>
+Inequality Seminar Series, London School of Economics and Political Science <br> [Link](https://www.youtube.com/watch?v=jg6wQqTk2qI) <br>
 
 **4-5 December 2023** <br>
 *Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course* <br>

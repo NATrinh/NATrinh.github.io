@@ -17,8 +17,8 @@ title: "Research"
 {:start="8"}
 8. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 9. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*.
-10. 'Distributive Principles in Parental Transfers by Asset Type' (with Daria Tisch)
-11. ‘Unequal Estate Division for Wealth Perpetuation: Primogeniture, Patrilineality, and Portfolios.’ (with Daria Tisch and Manuel Schechtl)
+10. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Familes' (with Daria Tisch and Manuel Schechtl), *under review*.
+11. ‘Unequal Estate Division for Wealth Perpetuation: Primogeniture, Patrilineality, and Portfolios.’ (with Daria Tisch and Manuel Schechtl), *working paper upon request*.
 12. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?’ (with Jonas Wiedner)
 13. ‘Wealth Inequality and Social Class in Comparative Perspective.’ (with Jad Moawad, Brian Nolan and Erzsébet Bukodi)
 
