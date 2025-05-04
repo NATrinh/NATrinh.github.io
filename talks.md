@@ -6,8 +6,7 @@ title: "Talks"
 ### Upcoming
 
 **15 May 2025** <br>
-*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> Departmental Research Colloquium, Department of Social Policy and Intervention, University of Oxford <br>
-[Link to programme](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/)
+*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> Research Colloquium, Department of Social Policy and Intervention, University of Oxford <br>
 
 ### Recordings
 
