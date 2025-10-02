@@ -9,7 +9,7 @@ Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](ht
 
 My research investigates trends, causes, and consequences of social inequality, focusing on both intra- as well as intergenerational processes. That is, how advantage and disadvantage emerge within the family, develop over the life course, and are transmitted from parents to children. From 2025-2029, I am a principle investigator of the project "Wealth and Social Cohesion from a Relational Perspective" funded by the Volkswagen Foundation.
 
-Previously, I held positions at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en/index.html), [Humboldt University Berlin](https://www.hu-berlin.de/en), and the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), University of Oxford.
+Previously, I held positions at the Department of Social Sciences, Humboldt University Berlin, and the Department of Social Policy and Intervention, University of Oxford.
 
 Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu). 
 
