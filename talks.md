@@ -12,7 +12,7 @@ title: "Talks"
 *Wohin driftet die Mitte? Zusammenhalt und Polarisierung im Spiegel von Bevölkerungsumfragen (Panel discussion)* <br> FGZ-Jahreskonferenz 2025: Zusammenhalt in Zeiten der „Disruption“, Leipzig <br>
 
 **9-11 October 2025** <br>
-*The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Familes* <br> International Conference on Wealth Inequality, Munich International Stone Center for Inequality Research <br>
+*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> International Conference on Wealth Inequality, Munich International Stone Center for Inequality Research <br>
 
 
 ### Recordings

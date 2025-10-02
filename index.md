@@ -5,12 +5,12 @@ layout: page
 
 ![Photo](/assets/portrait_old.jpg){:width="400px" style="float:left; padding-right:80px"}
 
-Hi, I'm Nhat An. I am a sociologist at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
+Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also affiliated with the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and an associate member of [Nuffield College](https://www.nuffield.ox.ac.uk/) at Oxford.
 
-My research focuses on trends, causes, and consequences of social inequality from an intra- and intergenerational perspective. I am interested in examining how advantage and disadvantage emerge within the family, develop over the life-course, and are transmitted from parents to children. Ongoing work investigates how social class structures earnings trajectories, the role of parental gifts and inheritances for wealth inequality, and social mobility among children of immigrants.
+My research investigates trends, causes, and consequences of social inequality, focusing on both intra- as well as intergenerational processes. That is, how advantage and disadvantage emerge within the family, develop over the life course, and are transmitted from parents to children. From 2025-2029, I am a principle investigator of the project "Wealth and Social Cohesion from a Relational Perspective" funded by the Volkswagen Foundation.
 
-Previously, I was a research fellow at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en/index.html) and member of the research group [MyWealth](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/research/mywealth_eng/research) at [Humboldt University Berlin](https://www.hu-berlin.de/en). I hold a DPhil in Social Policy from the University of Oxford. My doctoral research was funded by the German National Academic Scholarship Foundation.
+Previously, I held positions at the [Department of Social Sciences](https://www.sowi.hu-berlin.de/en/index.html), [Humboldt University Berlin](https://www.hu-berlin.de/en), and the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), University of Oxford.
 
-Get in touch via [nhatan.trinh@spi.ox.ac.uk](mailto:nhatan.trinh@spi.ox.ac.uk). 
+Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu). 
 
 Photo: Antara Majumdar
