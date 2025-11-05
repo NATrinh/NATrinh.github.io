@@ -15,7 +15,7 @@ title: "Research"
 
 ### In preparation (selected)
 
-{:start="8"}
+{:start="9"}
 9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 10. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Familes' (with Daria Tisch and Manuel Schechtl), *R&R*.
 11. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), *R&R*.
