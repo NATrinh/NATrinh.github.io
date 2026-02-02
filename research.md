@@ -4,6 +4,7 @@ title: "Research"
 ---
 
 ### Peer-reviewed
+1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. Forthcoming. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Familes', [*Social Forces*](https://academic.oup.com/sf).
 1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. Forthcoming. ‘Where Wealth Concentration is Higher, the Likelihood to Help Others is Lower’, [*Contexts*](https://www.asanet.org/publications/contexts/).
 2. Trinh, Nhat An. 2025. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054), 23(2):645–669. &#124; [replication files](https://osf.io/3enux/)
 3. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. 2024. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcad073), 40(6):950–963.
@@ -17,7 +18,6 @@ title: "Research"
 
 {:start="9"}
 9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
-10. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Familes' (with Daria Tisch and Manuel Schechtl), *R&R*.
 11. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), *R&R*.
 12. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/k6atw_v1)
 13. ‘Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality’ (with Daria Tisch and Manuel Schechtl), *under review*.
