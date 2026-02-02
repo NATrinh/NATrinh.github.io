@@ -16,7 +16,7 @@ title: "Research"
 
 ### In preparation (selected)
 
-{:start="9"}
+{:start="10"}
 9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 11. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), *R&R*.
 12. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/k6atw_v1)
