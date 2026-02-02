@@ -5,14 +5,10 @@ title: "Talks"
 
 ### Upcoming
 
-**23 September 2025** <br>
-*Vermögen verteilen, Gesellschaft einen? Eine Diskussionsveranstaltung zur Vermögensungleichheit und gesellschaftlichem Zusammenhalt* <br> 42. Kongress Gesellschaft für Soziologie, Universität Duisburg-Essen <br>
+**5-6 February 2026** <br>
+*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and
+Patrilineality* <br> 1st Inequality Conference, NYU Abu Dhbai <br>
 
-**9 October 2025** <br>
-*Wohin driftet die Mitte? Zusammenhalt und Polarisierung im Spiegel von Bevölkerungsumfragen (Panel discussion)* <br> FGZ-Jahreskonferenz 2025: Zusammenhalt in Zeiten der „Disruption“, Leipzig <br>
-
-**9-11 October 2025** <br>
-*Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br> International Conference on Wealth Inequality, Munich International Stone Center for Inequality Research <br>
 
 
 ### Recordings
