@@ -20,8 +20,8 @@ title: "Research"
 9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 11. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), *R&R*.
 12. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/k6atw_v1)
-14. 'The Intergenerational Social Mobility of Migrants in 22 European Countries', (with Michele Bavaro), *under review*. &#124; [working paper](https://www.inet.ox.ac.uk/publications/no-2026-02-the-intergenerational-social-mobility-of-migrants-in-22-european-countries)
 13. ‘Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality’ (with Daria Tisch and Manuel Schechtl), *under review*.
+14. 'The Intergenerational Social Mobility of Migrants in 22 European Countries', (with Michele Bavaro), *under review*. &#124; [working paper](https://www.inet.ox.ac.uk/publications/no-2026-02-the-intergenerational-social-mobility-of-migrants-in-22-european-countries)
 15. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?' (with Jonas Wiedner)
 16. ‘Wealth Inequality and Social Class in Comparative Perspective.’ (with Jad Moawad, Brian Nolan and Erzsébet Bukodi)
 
