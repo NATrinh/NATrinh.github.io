@@ -41,10 +41,15 @@ title: "Outreach"
 
 ### Blog posts and other writing
 
+**"Zusammenhalt begreifen", Forschungszentrum Gesellschaftlicher Zusammenhalt** 
+*Bedroht hohe Vermögensungleichheit den gesellschaftlichen Zusammenhalt?* <br>
+[Link to blog post]("https://fgzrisc.hypotheses.org/7247") <br>
 
+<img src="/assets/fgzblog.jpg" width="800">
+<br>
 
-- Trinh, Nhat An. 2022. 'Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?' in: *[IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)*.
+**Wissenschaftsjahr 2022**
+*Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?* (in: IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik)
+[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf) <br>
+[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html) <br>
 
-https://www.wissenschaftsjahr.de/2022/ideenlauf.html
-
-[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf).
