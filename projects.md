@@ -9,4 +9,4 @@ From 2025-2029, I am a principal investigator of the project "Wealth and Social 
 
 Visit [https://wealthandcohesion.com/](https://wealthandcohesion.com/) to learn more about the team and current research activities.
 
-<img src="/assets/img/logos.jpg" width="800">
+<img src="/assets/logos.jpg" alt="Description" width="800">
