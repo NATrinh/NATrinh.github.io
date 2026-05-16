@@ -6,8 +6,8 @@ title: "Talks"
 ### Upcoming
 
 **&#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Seville** <br>
-20-22 May 2026 <br>
 "Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality" <br> 
+20-22 May 2026 <br>
 
 
 ### Recordings
@@ -25,8 +25,8 @@ title: "Talks"
 </div>
 <br>
 
-**&#64;Joint Research Centre of the European Commission, Seville** <br>
-<br> [Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
+**&#64;Joint Research Centre of the European Commission, Seville** <br> 
+[Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
 *Talk starts at 14:33* <br>
 
 <iframe
