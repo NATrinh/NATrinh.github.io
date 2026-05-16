@@ -28,8 +28,3 @@ title: "Research"
 ### Dissertation
 
 - Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
-
-### Other writing
-
-- Trinh, Nhat An. 2022. 'Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?' in: *[IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)*.
-
