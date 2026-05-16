@@ -42,7 +42,7 @@ title: "Outreach"
 
 **Forschungszentrum Gesellschaftlicher Zusammenhalt** <br>
 <a href="https://fgzrisc.hypotheses.org/7247" target="_blank">
-  <img src="/assets/fgzblog.jpg" width="600">
+  <img src="/assets/fgzblog.jpg" width="800">
 </a>
 <br>
 
