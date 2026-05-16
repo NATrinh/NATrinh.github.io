@@ -5,9 +5,9 @@ title: "Talks"
 
 ### Upcoming
 
-**5-6 February 2026** <br>
+**20-22 May 2026** <br>
 *Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and
-Patrilineality* <br> 1st Inequality Conference, NYU Abu Dhbai <br>
+Patrilineality* <br> RC28 Spring Meeting, Universidad Pablo de Olavide, Seville <br>
 
 
 
@@ -16,6 +16,15 @@ Patrilineality* <br> 1st Inequality Conference, NYU Abu Dhbai <br>
 **5 March 2024** <br>
 *Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br>
 Inequality Seminar Series, London School of Economics and Political Science <br> [Link](https://www.youtube.com/watch?v=jg6wQqTk2qI) <br>
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/watch?v=jg6wQqTk2qI"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 **4-5 December 2023** <br>
 *Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course* <br>
