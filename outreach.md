@@ -19,9 +19,15 @@ title: "Outreach"
 
 ### Radio
 
+**Deutschlandradio Kultur** <br>
+<br> [Link to interview]("https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html") <br>
+
+<img src="/assets/dlf.jpg" width="600">
+
+
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-<img src="/assets/dlf.jpg" width="300">
+<img src="/assets/dlf.jpg" width="600">
 
 <div>
   <h3> Deutschlandradio Kultur </h3>
@@ -51,7 +57,9 @@ title: "Outreach"
 <br>
 
 
-### Writing
+### Blog posts and other writing
+
+
 
 - Trinh, Nhat An. 2022. 'Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?' in: *[IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)*.
 
