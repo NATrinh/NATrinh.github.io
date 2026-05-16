@@ -3,7 +3,7 @@ layout: page
 # title: "About"
 ---
 
-![Photo](/assets/portrait_old.jpg){:width="300px" style="float:left; padding-right:80px"}
+![Photo](/assets/portrait_old.jpg){:width="400px" style="float:left; padding-right:80px"}
 
 Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also affiliated with the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and an associate member of [Nuffield College](https://www.nuffield.ox.ac.uk/) at Oxford.
 
