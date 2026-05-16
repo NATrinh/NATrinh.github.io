@@ -27,8 +27,7 @@ title: "Talks"
 
 **&#64;Joint Research Centre of the European Commission, Seville** <br> 
 [Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
-
-<br>*Talk starts at 14:33*
+*Talk starts at 14:33*
 
 <iframe
     src="https://webcast.ec.europa.eu/digclass-international-workshop-day-1-2023-12-04"
