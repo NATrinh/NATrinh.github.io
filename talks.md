@@ -14,7 +14,6 @@ Patrilineality"" <br> &#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Se
 ### Recordings
 
 **5 March 2024** <br>
-["Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality"] <br>
 &#64;Inequality Seminar Series, London School of Economics and Political Science 
 <br>
 
@@ -30,8 +29,8 @@ Patrilineality"" <br> &#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Se
 <br>
 
 **4-5 December 2023** <br>
-["Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course""] <br>
-&#64;International Workshop, JRC European Commission, Seville <br> [Link](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
+&#64;International Workshop, JRC European Commission, Seville 
+<br> [Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
 
 <iframe
     src="https://webcast.ec.europa.eu/digclass-international-workshop-day-1-2023-12-04"
