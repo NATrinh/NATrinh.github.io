@@ -19,15 +19,9 @@ title: "Outreach"
 
 ### Radio
 
-**Deutschlandradio Kultur**
 <a href="https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html" target="_blank">
   <img src="/assets/dlf.jpg" width="800">
 </a>
-
-
-<br> [Link to interview]("https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html") <br>
-
-<img src="/assets/dlf.jpg" width="800">
 <br>
 
 ### Podcasts
@@ -47,14 +41,14 @@ title: "Outreach"
 ### Blog posts and other writing
 
 **"Zusammenhalt begreifen", Forschungszentrum Gesellschaftlicher Zusammenhalt** 
-*Bedroht hohe Vermögensungleichheit den gesellschaftlichen Zusammenhalt?* <br>
-[Link to blog post]("https://fgzrisc.hypotheses.org/7247") <br>
-
-<img src="/assets/fgzblog.jpg" width="800">
+<a href="https://fgzrisc.hypotheses.org/7247" target="_blank">
+  <img src="/assets/fgzblog.jpg" width="800">
+</a>
 <br>
 
+
 **Wissenschaftsjahr 2022**
-*Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?* (in: IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik)
-[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf) <br>
-[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html) <br>
+<br>*Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?* (in: IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik)
+<br>[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)
+<br>[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html)
 
