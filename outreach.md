@@ -40,15 +40,17 @@ title: "Outreach"
 
 ### Blog posts and other writing
 
-**"Zusammenhalt begreifen", Forschungszentrum Gesellschaftlicher Zusammenhalt** 
+**Forschungszentrum Gesellschaftlicher Zusammenhalt** <br>
 <a href="https://fgzrisc.hypotheses.org/7247" target="_blank">
-  <img src="/assets/fgzblog.jpg" width="800">
+  <img src="/assets/fgzblog.jpg" width="600">
 </a>
 <br>
 
 
 **Wissenschaftsjahr 2022**
-<br>*Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?* (in: IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik)
-<br>[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)
 <br>[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html)
-
+<br>
+<a href="https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf">
+  <img src="/assets/ideenlauf.jpg" width="600">
+</a>
+<br>
