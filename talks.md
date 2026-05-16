@@ -32,7 +32,7 @@ Patrilineality"" <br> &#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Se
 &#64;International Workshop, JRC European Commission, Seville 
 <br> [Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
 
-Talk starts at 14:33 <br>
+*Talk starts at 14:33* <br>
 
 <iframe
     src="https://webcast.ec.europa.eu/digclass-international-workshop-day-1-2023-12-04"
