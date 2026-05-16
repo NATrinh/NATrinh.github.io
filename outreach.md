@@ -19,11 +19,9 @@ title: "Outreach"
 
 ### Radio
 
-https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html
-
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-<img src="/assets/dlf.jpg" width="300">
+<img src="/assets/dlf.jpg" width="600">
 
 <div>
   <h3> Deutschlandradio Kultur </h3>
@@ -41,10 +39,6 @@ https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erb
 
 ### Podcasts
 
-**12 November 2024** <br>
-*Accumulation of inequalities* <br>
-Thinking Equally Podcast <br> [Link](https://www.youtube.com/watch?v=bpQSjn-h3u0) <br>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     src="https://www.youtube.com/embed/bpQSjn-h3u0"
@@ -60,3 +54,7 @@ Thinking Equally Podcast <br> [Link](https://www.youtube.com/watch?v=bpQSjn-h3u0
 ### Writing
 
 - Trinh, Nhat An. 2022. 'Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden?' in: *[IdeenLauf: Gesellschaftliche Impulse für Wissenschaft und Forschungspolitik](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf)*.
+
+https://www.wissenschaftsjahr.de/2022/ideenlauf.html
+
+[Link to download](https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf).
