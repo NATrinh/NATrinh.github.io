@@ -18,11 +18,13 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About"}  
   - {file: "research.md", title: "Research"}  
+  - {file: "projects.md", title: "Current projects"}  
   # - {file: "about.md", title: "About"}  
  # - {file: "publications.md", title: "Publications"}  
   #- {file: "inprogress.md", title: "Ongoing"}
   #- {file: "teaching.md", title: "Teaching"}
   - {file: "talks.md", title: "Talks"}  
+  - {file: "outreach.md", title: "Outreach"}  
   - {url: "/CV_NATrinh.pdf", title: CV}  
   
 
