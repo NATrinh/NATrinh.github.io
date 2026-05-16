@@ -5,16 +5,14 @@ title: "Talks"
 
 ### Upcoming
 
-**20-22 May 2026** <br>
-"Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and
-Patrilineality"" <br> &#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Seville <br>
-
+**&#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Seville** <br>
+20-22 May 2026 <br>
+"Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality" <br> 
 
 
 ### Recordings
 
 **&#64;Inequality Seminar Series, London School of Economics and Political Science** <br>
-5 March 2024 <br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -27,8 +25,7 @@ Patrilineality"" <br> &#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Se
 </div>
 <br>
 
-**&#64 Joint Research Centre of the European Commission, Seville** <br>
-4-5 December 2023 <br>
+**&#64;Joint Research Centre of the European Commission, Seville** <br>
 <br> [Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
 *Talk starts at 14:33* <br>
 

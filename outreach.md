@@ -19,29 +19,11 @@ title: "Outreach"
 
 ### Radio
 
-**Deutschlandradio Kultur** <br>
+**Deutschlandradio Kultur**
 <br> [Link to interview]("https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html") <br>
 
-<img src="/assets/dlf.jpg" width="600">
-
-
-<div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
-
-<img src="/assets/dlf.jpg" width="600">
-
-<div>
-  <h3> Deutschlandradio Kultur </h3>
-
-  <p>
-    Interview on Studio 9
-  </p>
-
-  <a href="https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html" target="_blank">
-    Open audio feature
-  </a>
-</div>
-
-</div>
+<img src="/assets/dlf.jpg" width="800">
+<br>
 
 ### Podcasts
 
