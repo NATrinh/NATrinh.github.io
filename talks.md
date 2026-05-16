@@ -17,10 +17,13 @@ Patrilineality* <br> RC28 Spring Meeting, Universidad Pablo de Olavide, Seville 
 *Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality* <br>
 Inequality Seminar Series, London School of Economics and Political Science <br> [Link](https://www.youtube.com/watch?v=jg6wQqTk2qI) <br>
 
-<div class="video-wrapper">
-  <iframe
+## Video title
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
     src="https://www.youtube.com/embed/jg6wQqTk2qI"
-    title="YouTube video player"
+    title="YouTube video"
+    style="position: absolute; top: 30; left: 30; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
   </iframe>
