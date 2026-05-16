@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Current projects"
+title: "Projects"
 ---
 
 ### Wealth and social cohesion

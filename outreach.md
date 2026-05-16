@@ -21,7 +21,7 @@ title: "Outreach"
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-<img src="/assets/dlf.jpg" width="600">
+<img src="/assets/dlf.jpg" width="300">
 
 <div>
   <h3> Deutschlandradio Kultur </h3>
