@@ -19,7 +19,7 @@ Inequality Seminar Series, London School of Economics and Political Science <br>
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/watch?v=jg6wQqTk2qI"
+    src="https://www.youtube.com/embed/jg6wQqTk2qI"
     title="YouTube video player"
     frameborder="0"
     allowfullscreen>
