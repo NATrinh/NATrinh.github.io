@@ -7,7 +7,7 @@ title: "Outreach"
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/KMIdDNbKZjo&t"
+    src="https://www.youtube.com/embed/KMIdDNbKZjo"
     title="YouTube video"
     style="position: absolute; top: 50; left: 30; width: 100%; height: 100%;"
     frameborder="0"
@@ -23,13 +23,13 @@ https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erb
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-<img src="/assets/img/dlf.jpg" width="220">
+<img src="/assets/dlf.jpg" width="300">
 
 <div>
-  <h3>The Great Transfer</h3>
+  <h3> Deutschlandradio Kultur </h3>
 
   <p>
-    Deutschlandfunk Kultur feature on inheritance and wealth transfers.
+    Interview on Studio 9
   </p>
 
   <a href="https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html" target="_blank">
