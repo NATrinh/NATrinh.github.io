@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ### Peer-reviewed
-1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. Forthcoming. ‘Where Wealth Concentration is Higher, the Likelihood to Help Others is Lower’, [*Contexts*](https://www.asanet.org/publications/contexts/).
+1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. 2026. ‘Where Wealth Concentration is Higher, the Likelihood to Help Others is Lower’, [*Contexts*](https://doi.org/10.1177/15365042261442494).
 1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. 2026. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families', [*Social Forces*](https://doi.org/10.1093/sf/soag010).
 2. Trinh, Nhat An. 2025. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054), 23(2):645–669. &#124; [replication files](https://osf.io/3enux/)
 3. Betthäuser, Bastian, Trinh, Nhat An, and Fasang, Anette. 2024. ‘The Temporal Dimension of Parental Employment: Fixed-term Contracts, Non-standard Work Schedules and Children’s Education in Germany’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcad073), 40(6):950–963.
