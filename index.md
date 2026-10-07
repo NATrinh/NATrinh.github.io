@@ -11,6 +11,8 @@ My research investigates trends, causes, and consequences of inequality with a f
 
 Previously, I held post-doctoral positions at the Department of Social Sciences, [Humboldt University Berlin](https://www.sowi.hu-berlin.de/en/index.html), and the Department of Social Policy and Intervention, [University of Oxford](https://www.spi.ox.ac.uk/). I obtained my PhD from the University of Oxford in 2022.
 
+I am the co-founder and co-organisor of the [Berlin Network for Elite and Inequality Research](https://elitesandinequality.github.io/).
+
 Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu). 
 
 Photo: Antara Majumdar
