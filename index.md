@@ -4,11 +4,15 @@ layout: sections
 
 <section id="about" class="split-section" aria-labelledby="about-title" markdown="1">
 
-<h2 id="about-title">About</h2>
+<div class="section-heading">
+  <h2 id="about-title">About</h2>
+  <figure class="portrait-figure">
+    <img class="portrait" src="/assets/portrait_old.jpg" alt="Nhat An Trinh" width="400">
+    <figcaption>Photo: Antara Majumdar</figcaption>
+  </figure>
+</div>
 
 <div class="section-content" markdown="1">
-
-![Photo](/assets/portrait_old.jpg){: .portrait width="400"}
 
 Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also affiliated with the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and an associate member of [Nuffield College](https://www.nuffield.ox.ac.uk/) at the University of Oxford.
 
@@ -19,8 +23,6 @@ Previously, I held post-doctoral positions at the Department of Social Sciences,
 I am the co-founder and co-organisor of the [Berlin Network for Elite and Inequality Research](https://elitesandinequality.github.io/).
 
 Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
-
-Photo: Antara Majumdar
 
 </div>
 
