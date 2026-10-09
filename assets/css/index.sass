@@ -43,3 +43,46 @@ body > footer
   color: #212228
   border-top: 1px solid $dark
   opacity: .9
+
+.home-section
+  display: flow-root
+  scroll-margin-top: 8rem
+  padding-bottom: 2rem
+
+.home-section + .home-section
+  border-top: 1px solid reduce(14)
+  padding-top: 2rem
+
+.section-nav
+  display: flex
+  flex-wrap: wrap
+  gap: 1.5rem
+  margin: 0 0 2rem
+  a
+    margin: 0
+
+.portrait
+  float: left
+  width: 40%
+  margin: 0 2rem 1rem 0
+
+.cv-document
+  display: block
+  width: 100%
+  height: 80vh
+  min-height: 30rem
+
+@media (max-width: 40em)
+  body > header
+    position: static
+  .portrait
+    float: none
+    width: 100%
+    max-width: 400px
+    margin: 0 0 1rem
+  .home-section
+    scroll-margin-top: 1rem
+
+@media (prefers-reduced-motion: no-preference)
+  html
+    scroll-behavior: smooth
