@@ -26,19 +26,9 @@ title: "Outreach"
 
 ### Podcasts
 
-**Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen**
-
-<iframe
-  src="https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view"
-  title="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen"
-  style="width: 100%; height: 450px; border: 0;"
-  loading="lazy"
-  allow="autoplay"
-  allowfullscreen>
-</iframe>
-
-[Listen on Podfollow](https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view)
-
+<a href="https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view" target="_blank">
+  <img src="/assets/Podfollow.png" width="800" alt="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen">
+</a>
 <br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
