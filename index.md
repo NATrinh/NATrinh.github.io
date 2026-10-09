@@ -4,13 +4,11 @@ layout: sections
 
 <section id="about" class="split-section" aria-labelledby="about-title" markdown="1">
 
-<div class="section-heading">
-  <h2 id="about-title">About</h2>
+<h2 id="about-title">About</h2>
   <figure class="portrait-figure">
     <img class="portrait" src="/assets/portrait_old.jpg" alt="Nhat An Trinh" width="400">
     <figcaption>Photo: Antara Majumdar</figcaption>
   </figure>
-</div>
 
 <div class="section-content" markdown="1">
 
@@ -34,7 +32,6 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <div class="section-content" markdown="1">
 
-### Peer-reviewed
 1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. 2026. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families', [*Social Forces*](https://doi.org/10.1093/sf/soag010), 105(1):77–98. &#124; [replication files](https://osf.io/pj7s3/overview)
 1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. 2026. ‘Wealth Concentration and Prosocial Behavior in Everyday Life’, [*Contexts*](https://doi.org/10.1177/15365042261442494).
 2. Trinh, Nhat An. 2025. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054), 23(2):645–669. &#124; [replication files](https://osf.io/3enux/)
@@ -45,7 +42,15 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 7. Betthäuser, Bastian, Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Regional Variation in Inequality of Educational Opportunity across Europe’, [*Socius: Sociological Research for a Dynamic World*](https://doi.org/10.1177/23780231211019890), 7, all authors contributed equally.  &#124; [replication files](https://osf.io/bca95/)
 8. Kaiser, Caspar, and Trinh, Nhat An. 2021. ‘Positional, Mobility, and Reference Effects: How Does Social Class Affect Life Satisfaction in Europe?’, [*European Sociological Review*](https://doi.org/10.1093/esr/jcaa067), 37(5):713–730. &#124; [replication files](https://osf.io/4wx26/)
 
-### In preparation (selected)
+</div>
+
+</section>
+
+<section id="in-preparation" class="split-section" aria-labelledby="in-preparation-title" markdown="1">
+
+<h2 id="in-preparation-title">In preparation (selected)</h2>
+
+<div class="section-content" markdown="1">
 
 {:start="10"}
 9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
@@ -55,13 +60,11 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 14. 'The Intergenerational Social Mobility of Migrants in 22 European Countries', (with Michele Bavaro), *under review*. &#124; [working paper](https://www.inet.ox.ac.uk/publications/no-2026-02-the-intergenerational-social-mobility-of-migrants-in-22-european-countries)
 15. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?' (with Jonas Wiedner)
 
-### Dissertation
-
-- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
-
 </div>
 
 </section>
+
+
 
 <section id="projects" class="split-section" aria-labelledby="projects-title" markdown="1">
 
@@ -69,13 +72,25 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <div class="section-content" markdown="1">
 
-### Wealth and social cohesion
+### Wealth and Social Cohesion
 
 From 2025-2029, I am a co-principal investigator of the project "Wealth and Social Cohesion from a Relational Perspective" funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en). The research project studies how widening wealth gaps are reshaping the foundations of social life across countries.
 
 Visit [https://wealthandcohesion.com/](https://wealthandcohesion.com/) to learn more about the team and current research activities.
 
 <img src="/assets/logos.jpg" alt="Description" width="800">
+
+</div>
+
+</section>
+
+<section id="dissertation" class="split-section" aria-labelledby="dissertation-title" markdown="1">
+
+<h2 id="dissertation-title">Dissertation</h2>
+
+<div class="section-content" markdown="1">
+
+- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
 
 </div>
 
