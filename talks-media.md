@@ -10,10 +10,6 @@ permalink: /talks-media/
 
 <div class="section-content" markdown="1">
 
-### Recordings
-
-**&#64;Inequality Seminar Series, London School of Economics and Political Science** <br>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/embed/jg6wQqTk2qI"
@@ -25,17 +21,12 @@ permalink: /talks-media/
 </div>
 <br>
 
-**&#64;Joint Research Centre of the European Commission, Seville** <br>
-[Link to workshop programme ](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
-*Talk starts at 14:33*
+<a href="https://webcast.ec.europa.eu/digclass-international-workshop-day-1-2023-12-04" target="_blank" rel="noopener">
+  <img src="/assets/digclass.png" width="100%" alt="DIGCLASS international workshop — watch the JRC talk recording">
+</a>
 
-<iframe
-    src="https://webcast.ec.europa.eu/digclass-international-workshop-day-1-2023-12-04"
-    width="100%"
-    height="400"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
+[Link to workshop programme](https://joint-research-centre.ec.europa.eu/digclass/digclass-international-workshop-social-class-analysis-digital-age-new-approaches-and-perspectives-2023-12-04_en) <br>
+*Talk starts at 14:33*
 
 </div>
 
