@@ -14,12 +14,17 @@ body > header
   color: #212228
   font-size: calc(1em + 2pt)
   font-weight: bold
+  padding-top: 1em
+  padding-bottom: 1em
   border-bottom: 1px solid $dark
   position: sticky
   top: 0
   z-index: 100
   a
     color: #212228
+    &:hover
+      color: $link-color
+      text-decoration: none
 
 {% else %}
 
@@ -31,4 +36,6 @@ body > header
 
 body > footer
   border-top: 1px solid $dark
+  padding-top: 1em
+  padding-bottom: 1em
   opacity: .9
