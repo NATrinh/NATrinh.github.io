@@ -7,6 +7,18 @@
   body > header, body > article, body > footer
     padding: 1.75em calc(40% - 17em)
 
+body > header, body > footer
+  box-sizing: border-box
+  min-height: 5.25rem
+  padding-top: 1rem
+  padding-bottom: 1rem
+
+body > header a, body > footer a
+  color: #212228
+  &:hover
+    color: $link-color
+    text-decoration: none
+
 {% if site.minimal %}
 
 body > header
@@ -14,17 +26,10 @@ body > header
   color: #212228
   font-size: calc(1em + 2pt)
   font-weight: bold
-  padding-top: 1em
-  padding-bottom: 1em
   border-bottom: 1px solid $dark
   position: sticky
   top: 0
   z-index: 100
-  a
-    color: #212228
-    &:hover
-      color: $link-color
-      text-decoration: none
 
 {% else %}
 
@@ -35,7 +40,6 @@ body > header
 {% endif %}
 
 body > footer
+  color: #212228
   border-top: 1px solid $dark
-  padding-top: 1em
-  padding-bottom: 1em
   opacity: .9
