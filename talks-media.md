@@ -102,19 +102,16 @@ permalink: /talks-media/
 
 <div class="section-content writing-grid">
   <div class="writing-item">
-    <h3>WZB Mitteilungen</h3>
     <a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank" rel="noopener">
       <img src="/assets/Generationen%20WZB.png" alt="Von den Vätern zu den Söhnen — WZB Mitteilungen" loading="lazy">
     </a>
   </div>
   <div class="writing-item">
-    <h3>Forschungszentrum Gesellschaftlicher Zusammenhalt</h3>
     <a href="https://fgzrisc.hypotheses.org/7247" target="_blank" rel="noopener">
       <img src="/assets/fgzblog.png" alt="Bedroht hohe Vermögensungleichheit den gesellschaftlichen Zusammenhalt? — Nhat An Trinh" loading="lazy">
     </a>
   </div>
   <div class="writing-item">
-    <h3>Wissenschaftsjahr 2022</h3>
     <a href="https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf#page=53" target="_blank" rel="noopener">
       <img src="/assets/writing-ideenlauf-page-53.png" alt="Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden? — article on page 53" loading="lazy">
     </a>
