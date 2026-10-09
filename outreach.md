@@ -47,14 +47,14 @@ title: "Outreach"
 
 **WZB Mitteilungen** <br>
 <a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank">
-  <img src="/assets/Generationen%20WZB.png" width="800" alt="WZB Mitteilungen: Von den Vätern zu den Söhnen">
+  <img src="/assets/Generationen%20WZB.png" width="100%" alt="WZB Mitteilungen: Von den Vätern zu den Söhnen">
 </a>
 <br>
 
 
 **Forschungszentrum Gesellschaftlicher Zusammenhalt** <br>
 <a href="https://fgzrisc.hypotheses.org/7247" target="_blank">
-  <img src="/assets/fgzblog.jpg" width="800">
+  <img src="/assets/fgzblog.jpg" width="100%">
 </a>
 <br>
 
@@ -63,6 +63,6 @@ title: "Outreach"
 <br>[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html)
 <br>
 <a href="https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf">
-  <img src="/assets/ideenlauf.jpg" width="800">
+  <img src="/assets/ideenlauf.jpg" width="100%">
 </a>
 <br>
