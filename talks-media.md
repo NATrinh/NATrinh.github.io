@@ -100,30 +100,26 @@ permalink: /talks-media/
 
 <h2 id="writing-title">Writing</h2>
 
-<div class="section-content" markdown="1">
-
-**WZB Mitteilungen** <br>
-<a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank">
-  <img src="/assets/Generationen%20WZB.png" width="100%" alt="WZB Mitteilungen: Von den Vätern zu den Söhnen">
-</a>
-<br>
-
-
-**Forschungszentrum Gesellschaftlicher Zusammenhalt** <br>
-<a href="https://fgzrisc.hypotheses.org/7247" target="_blank">
-  <img src="/assets/fgzblog.jpg" width="100%">
-</a>
-<br>
-
-
-**Wissenschaftsjahr 2022**
-<br>[Link to initiative](https://www.wissenschaftsjahr.de/2022/ideenlauf.html)
-<br>
-<a href="https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf">
-  <img src="/assets/ideenlauf.jpg" width="100%">
-</a>
-<br>
-
+<div class="section-content writing-grid">
+  <div class="writing-item">
+    <h3>WZB Mitteilungen</h3>
+    <a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank" rel="noopener">
+      <img src="/assets/Generationen%20WZB.png" alt="Von den Vätern zu den Söhnen — WZB Mitteilungen" loading="lazy">
+    </a>
+  </div>
+  <div class="writing-item">
+    <h3>Forschungszentrum Gesellschaftlicher Zusammenhalt</h3>
+    <a href="https://fgzrisc.hypotheses.org/7247" target="_blank" rel="noopener">
+      <img src="/assets/fgzblog.png" alt="Bedroht hohe Vermögensungleichheit den gesellschaftlichen Zusammenhalt? — Nhat An Trinh" loading="lazy">
+    </a>
+  </div>
+  <div class="writing-item">
+    <h3>Wissenschaftsjahr 2022</h3>
+    <a href="https://www.wissenschaftsjahr.de/2022/fileadmin/user_upload/1__Ideenlauf/IdeenLauf_Ergebnis.pdf#page=53" target="_blank" rel="noopener">
+      <img src="/assets/writing-ideenlauf-page-53.png" alt="Wie können Ungleichheiten in und zwischen Gesellschaften überwunden werden? — article on page 53" loading="lazy">
+    </a>
+    <p><a href="https://www.wissenschaftsjahr.de/2022/ideenlauf.html">Link to initiative</a></p>
+  </div>
 </div>
 
 </section>

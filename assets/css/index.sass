@@ -171,3 +171,42 @@ body > footer
 @media (prefers-reduced-motion: no-preference)
   html
     scroll-behavior: smooth
+
+.writing-grid
+  display: grid
+  grid-template-columns: repeat(3, minmax(0, 1fr))
+  gap: 20px
+
+.writing-item
+  display: flex
+  flex-direction: column
+  min-width: 0
+  h3
+    font-size: 15px
+    line-height: 1.4
+    min-height: 6em
+    margin: 0 0 16px
+  > a
+    display: block
+  img
+    display: block
+    width: 100%
+    height: auto
+    aspect-ratio: 1 / 1.4142
+    object-fit: contain
+    object-position: top
+    margin: 0
+    border: 1px solid #ddd
+    background: white
+  p
+    font-size: 13px
+    margin: 12px 0 0
+
+@media (max-width: 540px)
+  .writing-grid
+    grid-template-columns: 1fr
+    gap: 32px
+  .writing-item h3
+    min-height: 0
+  .writing-item img
+    max-width: 360px
