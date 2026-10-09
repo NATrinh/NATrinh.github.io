@@ -1,16 +1,12 @@
 ---
-layout: page
+layout: sections
 ---
 
-<nav class="section-nav" aria-label="Homepage sections">
-  <a href="#about">About</a>
-  <a href="#research">Research</a>
-  <a href="#projects">Projects</a>
-</nav>
+<section id="about" class="split-section" aria-labelledby="about-title" markdown="1">
 
-<section id="about" class="home-section" markdown="1">
+<h2 id="about-title">About</h2>
 
-## About
+<div class="section-content" markdown="1">
 
 ![Photo](/assets/portrait_old.jpg){: .portrait width="400"}
 
@@ -26,11 +22,15 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 Photo: Antara Majumdar
 
+</div>
+
 </section>
 
-<section id="research" class="home-section" markdown="1">
+<section id="research" class="split-section" aria-labelledby="research-title" markdown="1">
 
-## Research
+<h2 id="research-title">Research</h2>
+
+<div class="section-content" markdown="1">
 
 ### Peer-reviewed
 1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. 2026. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families', [*Social Forces*](https://doi.org/10.1093/sf/soag010), 105(1):77–98. &#124; [replication files](https://osf.io/pj7s3/overview)
@@ -57,11 +57,15 @@ Photo: Antara Majumdar
 
 - Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
 
+</div>
+
 </section>
 
-<section id="projects" class="home-section" markdown="1">
+<section id="projects" class="split-section" aria-labelledby="projects-title" markdown="1">
 
-## Projects
+<h2 id="projects-title">Projects</h2>
+
+<div class="section-content" markdown="1">
 
 ### Wealth and social cohesion
 
@@ -70,5 +74,7 @@ From 2025-2029, I am a co-principal investigator of the project "Wealth and Soci
 Visit [https://wealthandcohesion.com/](https://wealthandcohesion.com/) to learn more about the team and current research activities.
 
 <img src="/assets/logos.jpg" alt="Description" width="800">
+
+</div>
 
 </section>

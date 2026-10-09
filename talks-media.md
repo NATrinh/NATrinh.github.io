@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: sections
 title: "Talks & Media"
 permalink: /talks-media/
 ---
 
-## Talks
+<section id="talks" class="split-section" aria-labelledby="talks-title" markdown="1">
+
+<h2 id="talks-title">Talks</h2>
+
+<div class="section-content" markdown="1">
 
 ### Upcoming
 
@@ -40,8 +44,15 @@ permalink: /talks-media/
     allowfullscreen>
 </iframe>
 
-## Media
-{: #media}
+</div>
+
+</section>
+
+<section id="media" class="split-section" aria-labelledby="media-title" markdown="1">
+
+<h2 id="media-title">Media</h2>
+
+<div class="section-content" markdown="1">
 
 ### TV
 
@@ -106,3 +117,7 @@ permalink: /talks-media/
   <img src="/assets/ideenlauf.jpg" width="100%">
 </a>
 <br>
+
+</div>
+
+</section>

@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:
-  - {file: "index.md", title: "Home"}
-  - {file: "talks-media.md", title: "Talks & Media"}
-  - {file: "cv.md", title: "CV"}
+  - {url: "/#research", title: "research & projects"}
+  - {file: "talks-media.md", title: "talks & media"}
+  - {url: "/CV_NATrinh.pdf", title: "cv"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

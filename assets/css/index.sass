@@ -3,85 +3,144 @@
 
 @import index, font, basic, layout, classes
 
-@media (min-width: 40em)
-  body > header, body > article, body > footer
-    padding: 1.75em calc(40% - 17em)
-
-body > header, body > footer
+*
   box-sizing: border-box
-  min-height: 5.25rem
-  padding-top: 1rem
-  padding-bottom: 1rem
 
-body > header a, body > footer a
-  color: #212228
+body
+  font-family: Arial, Helvetica, sans-serif
+  font-size: 17px
+  line-height: 1.7
+
+p
+  text-align: left
+
+a
+  color: inherit
+  text-decoration: underline
+  text-underline-offset: 3px
   &:hover
-    color: $link-color
-    text-decoration: none
-
-{% if site.minimal %}
+    color: #666
+  &:focus-visible
+    outline: 2px solid currentColor
+    outline-offset: 4px
 
 body > header
-  background: $light
-  color: #212228
-  font-size: calc(1em + 2pt)
-  font-weight: bold
-  border-bottom: 1px solid $dark
   position: sticky
   top: 0
   z-index: 100
+  background: $light
+  border-bottom: 1px solid $dark
+  padding: 22px unquote("max(30px, calc((100% - 1100px) / 2))")
+  gap: 20px
+  flex-wrap: nowrap
 
-{% else %}
+body > header .title
+  font-size: 16px
+  font-weight: 600
+  white-space: nowrap
+  text-decoration: none
 
-body > header
-  box-shadow: 0 0 .6em rgba($dark, 0.04)
-  border-bottom: 1px solid reduce(14)
+.brand-role
+  font-weight: 400
 
-{% endif %}
-
-body > footer
-  color: #212228
-  border-top: 1px solid $dark
-  opacity: .9
-
-.home-section
-  display: flow-root
-  scroll-margin-top: 8rem
-  padding-bottom: 2rem
-
-.home-section + .home-section
-  border-top: 1px solid reduce(14)
-  padding-top: 2rem
-
-.section-nav
+body > header nav
   display: flex
-  flex-wrap: wrap
-  gap: 1.5rem
-  margin: 0 0 2rem
+  gap: 26px
+  margin: 0
+  font-size: 14px
   a
     margin: 0
+    white-space: nowrap
+    text-decoration: none
+    &:hover, &.selected
+      text-decoration: underline
+
+.sections-page
+  width: 100%
+  max-width: 1060px
+  padding: 0 30px
+  margin: 0 auto
+  flex: 1
+
+.split-section
+  display: grid
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr)
+  gap: 50px
+  padding: 65px 0
+  scroll-margin-top: 85px
+  & + &
+    border-top: 1px solid $dark
+  > h2
+    font-family: Georgia, serif
+    font-size: 32px
+    font-weight: 400
+    line-height: 1.2
+    margin: 0
+
+.section-content
+  min-width: 0
+  > :first-child
+    margin-top: 0
+  > :last-child
+    margin-bottom: 0
+  h3
+    font-size: 20px
+    font-weight: 500
+    line-height: 1.35
+    margin: 2.5rem 0 1rem
+  li
+    margin-bottom: 1rem
+  ol, ul
+    padding-left: 1.3rem
 
 .portrait
   float: left
-  width: 40%
-  margin: 0 2rem 1rem 0
+  width: 38%
+  margin: 0 24px 12px 0
 
-.cv-document
-  display: block
-  width: 100%
-  height: 80vh
-  min-height: 30rem
+body > footer
+  border-top: 1px solid $dark
+  padding: 24px unquote("max(30px, calc((100% - 1000px) / 2))")
+  gap: 16px
+  font-size: 13px
+  color: #555
+  nav
+    display: flex
+    gap: 20px
+    margin: 0
+    a
+      margin: 0
 
-@media (max-width: 40em)
+.visually-hidden
+  position: absolute
+  width: 1px
+  height: 1px
+  padding: 0
+  margin: -1px
+  overflow: hidden
+  clip: rect(0, 0, 0, 0)
+  white-space: nowrap
+  border: 0
+
+@media (max-width: 760px)
   body > header
-    position: static
-  .portrait
-    float: none
-    width: 100%
-    max-width: 400px
-    margin: 0 0 1rem
-  .home-section
-    scroll-margin-top: 1rem
+    flex-direction: column
+    align-items: flex-start
+    padding: 18px 20px
+    gap: 12px
+    nav
+      flex-wrap: wrap
+      gap: 18px
+      font-size: 13px
+  .sections-page
+    padding: 0 20px
+  .split-section
+    grid-template-columns: 1fr
+    gap: 24px
+    padding: 40px 0
+    scroll-margin-top: 135px
+  body > footer
+    padding: 24px 20px
 
 @media (prefers-reduced-motion: no-preference)
   html
