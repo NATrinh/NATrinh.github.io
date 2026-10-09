@@ -10,13 +10,6 @@ permalink: /talks-media/
 
 <div class="section-content" markdown="1">
 
-### Upcoming
-
-**&#64;RC28 Spring Meeting, Universidad Pablo de Olavide, Seville** <br>
-"Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality" <br>
-20-22 May 2026 <br>
-
-
 ### Recordings
 
 **&#64;Inequality Seminar Series, London School of Economics and Political Science** <br>
@@ -48,13 +41,11 @@ permalink: /talks-media/
 
 </section>
 
-<section id="media" class="split-section" aria-labelledby="media-title" markdown="1">
+<section id="tv" class="split-section" aria-labelledby="tv-title" markdown="1">
 
-<h2 id="media-title">Media</h2>
+<h2 id="tv-title">TV</h2>
 
 <div class="section-content" markdown="1">
-
-### TV
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
@@ -68,14 +59,30 @@ permalink: /talks-media/
 <br>
 
 
-### Radio
+</div>
+
+</section>
+
+<section id="radio" class="split-section" aria-labelledby="radio-title" markdown="1">
+
+<h2 id="radio-title">Radio</h2>
+
+<div class="section-content" markdown="1">
 
 <a href="https://www.deutschlandfunkkultur.de/the-great-transfer-wir-stehen-vor-einer-erbschaftswelle-100.html" target="_blank">
   <img src="/assets/dlf.jpg" width="800">
 </a>
 <br>
 
-### Podcasts
+</div>
+
+</section>
+
+<section id="podcast" class="split-section" aria-labelledby="podcast-title" markdown="1">
+
+<h2 id="podcast-title">Podcast</h2>
+
+<div class="section-content" markdown="1">
 
 <a href="https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view" target="_blank">
   <img src="/assets/Podfollow.png" width="100%" alt="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen">
@@ -94,7 +101,15 @@ permalink: /talks-media/
 <br>
 
 
-### Blog posts and other writing
+</div>
+
+</section>
+
+<section id="writing" class="split-section" aria-labelledby="writing-title" markdown="1">
+
+<h2 id="writing-title">Writing</h2>
+
+<div class="section-content" markdown="1">
 
 **WZB Mitteilungen** <br>
 <a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank">

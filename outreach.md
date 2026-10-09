@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: "/talks-media/#media"
+redirect_to: "/talks-media/#tv"
 ---

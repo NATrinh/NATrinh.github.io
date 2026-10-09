@@ -72,7 +72,7 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <div class="section-content" markdown="1">
 
-### Wealth and Social Cohesion
+### **Wealth and Social Cohesion**
 
 From 2025-2029, I am a co-principal investigator of the project "Wealth and Social Cohesion from a Relational Perspective" funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en). The research project studies how widening wealth gaps are reshaping the foundations of social life across countries.
 
@@ -90,7 +90,7 @@ Visit [https://wealthandcohesion.com/](https://wealthandcohesion.com/) to learn 
 
 <div class="section-content" markdown="1">
 
-- Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
+Trinh, Nhat An. 2022. Patterns and Drivers of Over-time Change in the Intergenerational Transmission of Inequality in Germany and the UK. [University of Oxford](https://ora.ox.ac.uk/objects/uuid:cbfb603b-ce55-49e2-87b6-011e7e39bd3f).
 
 </div>
 
