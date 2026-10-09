@@ -10,11 +10,16 @@
 {% if site.minimal %}
 
 body > header
-  background: $link-color
-  color: $light
+  background: $light
+  color: #212228
   font-size: calc(1em + 2pt)
   font-weight: bold
-  border-bottom: 1px solid reduce(14)
+  border-bottom: 1px solid $dark
+  position: sticky
+  top: 0
+  z-index: 100
+  a
+    color: #212228
 
 {% else %}
 
@@ -25,6 +30,5 @@ body > header
 {% endif %}
 
 body > footer
-  box-shadow: 0 0 .6em rgba($dark, 0.04) inset
-  border-top: 1px solid reduce(14)
+  border-top: 1px solid $dark
   opacity: .9
