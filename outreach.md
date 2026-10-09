@@ -27,7 +27,7 @@ title: "Outreach"
 ### Podcasts
 
 <a href="https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view" target="_blank">
-  <img src="/assets/Podfollow.png" width="800" alt="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen">
+  <img src="/assets/Podfollow.png" width="100%" alt="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen">
 </a>
 <br>
 
