@@ -43,7 +43,7 @@ body > header .title
 body > header a
   color: $dark
   &:hover
-    color: $dark
+    color: darken($link-color, 15%)
 
 .brand-role
   font-weight: 400
@@ -123,6 +123,10 @@ body > header nav
 
 #podcast .section-content > div
   margin-top: 40px
+
+#talks, #tv, #radio, #podcast, #writing
+  .section-content img:hover
+    filter: grayscale(100%)
 
 body > footer
   border-top: 1px solid $dark
