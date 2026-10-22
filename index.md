@@ -28,7 +28,7 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <section id="research" class="split-section" aria-labelledby="research-title" markdown="1">
 
-<h2 id="research-title">Research</h2>
+<h2 id="research-title">Research (peer-reviewed)</h2>
 
 <div class="section-content" markdown="1">
 
