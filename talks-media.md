@@ -12,6 +12,17 @@ permalink: /talks-media/
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
+    src="https://www.youtube.com/embed/G1wEBJkMqdM"
+    title="YouTube video"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
     src="https://www.youtube.com/embed/jg6wQqTk2qI"
     title="YouTube video"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -107,6 +118,11 @@ permalink: /talks-media/
 <h2 id="writing-title">Writing</h2>
 
 <div class="section-content writing-grid">
+  <div class="writing-item">
+    <a href="https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/05/intergenerationale-vermoegensungleichheit-052026.pdf?__blob=publicationFile&amp;v=3" target="_blank" rel="noopener">
+      <img src="/assets/Wista.png" alt="Intergenerationale Vermögensungleichheit: Erkenntnisse aus der Erbschaft- und Schenkungsteuerstatistik — WISTA" loading="lazy">
+    </a>
+  </div>
   <div class="writing-item">
     <a href="https://bibliothek.wzb.eu/artikel/2026/f-27636.pdf" target="_blank" rel="noopener">
       <img src="/assets/Generationen%20WZB.png" alt="Von den Vätern zu den Söhnen — WZB Mitteilungen" loading="lazy">
