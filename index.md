@@ -28,10 +28,13 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <section id="research" class="split-section" aria-labelledby="research-title" markdown="1">
 
-<h2 id="research-title">Research</h2>
+<h2 id="research-title">Research<br>(peer-reviewed)</h2>
 
 <div class="section-content" markdown="1">
 
+1. Trinh, Nhat An. Forthcoming. 'Wealth and Social Mobility', in Lynette Spillman (ed.), [*Oxford Research Encyclopedia of Sociology*](https://academic.oup.com/edited-volume/63014) (New York, NY, online edn, Oxford Academic).
+1. Trinh, Nhat An, Hörl, Moritz, Scalese, Federico and Pop, Mihaela-Claudia. Forthcoming. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), [*Historical Social Research*](https://www.gesis.org/en/hsr).
+1. Tisch, Daria, Schechtl, Manuel, and Trinh, Nhat An. 2026. ‘Intergenerationale Vermögensungleichheit: Erkenntnisse aus der Erbschaft- und Schenkungsteuerstatistik’, [*WISTA – Wirtschaft und Statistik*](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/05/wista-052026.pdf?__blob=publicationFile&v=4#page=61), 5:54–63.
 1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. 2026. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families', [*Social Forces*](https://doi.org/10.1093/sf/soag010), 105(1):77–98. &#124; [replication files](https://osf.io/pj7s3/overview)
 1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. 2026. ‘Wealth Concentration and Prosocial Behavior in Everyday Life’, [*Contexts*](https://doi.org/10.1177/15365042261442494).
 2. Trinh, Nhat An. 2025. ‘Class Origin, Intergenerational Transfers, and the Gender Wealth Gap’, [*Socio-Economic Review*](https://doi.org/10.1093/ser/mwae054), 23(2):645–669. &#124; [replication files](https://osf.io/3enux/)
@@ -52,13 +55,14 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 
 <div class="section-content" markdown="1">
 
-{:start="10"}
-9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *R&R*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
-11. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), *R&R*.
+{:start="13"}
+9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *Resubmitted*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
+12. ‘The Gender of Tax Expenditure: Evidence from German Administrative Records’ (with Manuel Schechtl, Nicole Kapelle, and Daria Tisch), *R&R*.
 12. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/k6atw_v1)
 13. ‘Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality’ (with Daria Tisch and Manuel Schechtl), *under review*.
 14. 'The Intergenerational Social Mobility of Migrants in 22 European Countries', (with Michele Bavaro), *under review*. &#124; [working paper](https://www.inet.ox.ac.uk/publications/no-2026-02-the-intergenerational-social-mobility-of-migrants-in-22-european-countries)
 15. ‘Can Migration Disrupt the Transmission of Inequality Across Generations?' (with Jonas Wiedner)
+16. ‘From Work to Wealth? The Coupling of Lifetime Earnings and Wealth in the United States and Germany’ (with Juliana de Castro Galvao)
 
 </div>
 

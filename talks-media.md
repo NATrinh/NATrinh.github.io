@@ -91,6 +91,12 @@ permalink: /talks-media/
 </div>
 <br>
 
+<a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_F51328FADC5411F17F8DB883034AF4D0" target="_blank" rel="noopener">
+  <img src="/assets/dlf-nova-wissen-unplugged.jpg" width="100%" alt="Wissen unplugged: Wie Ungleichheit die Demokratie gefährdet – Deutschlandfunk Nova">
+</a>
+[Wissen unplugged: Wie Ungleichheit die Demokratie gefährdet – Deutschlandfunk Nova](https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_F51328FADC5411F17F8DB883034AF4D0)
+<br>
+
 
 </div>
 
