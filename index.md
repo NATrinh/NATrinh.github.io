@@ -12,7 +12,7 @@ layout: sections
 
 <div class="section-content" markdown="1">
 
-Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also an associate member of the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/) at the University of Oxford, and ISI External Affiliate at the [Munich International Stone Center for Inequality Research](https://www.isi-munich.de/).
+Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also an associate member of the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/) at the University of Oxford and an ISI External Affiliate at the [Munich International Stone Center for Inequality Research](https://www.isi-munich.de/).
 
 My research investigates trends, causes, and consequences of inequality with a focus on wealth, social class, and intergenerational transmission. My research has been published in the European Sociological Review, Journal of Social Policy, Research in Social Stratification and Mobility, Social Forces, and Socio-Economic Review among others.
 
