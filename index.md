@@ -12,7 +12,7 @@ layout: sections
 
 <div class="section-content" markdown="1">
 
-Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also affiliated with the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and an associate member of [Nuffield College](https://www.nuffield.ox.ac.uk/) at the University of Oxford.
+Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](https://www.wzb.eu/en). I am also an associate member of the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/) at the University of Oxford, and ISI External Affiliate at the [Munich International Stone Center for Inequality Research](https://www.isi-munich.de/).
 
 My research investigates trends, causes, and consequences of inequality with a focus on wealth, social class, and intergenerational transmission. My research has been published in the European Sociological Review, Journal of Social Policy, Research in Social Stratification and Mobility, Social Forces, and Socio-Economic Review among others.
 
@@ -33,7 +33,7 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 <div class="section-content" markdown="1">
 
 1. Trinh, Nhat An. Forthcoming. 'Wealth and Social Mobility', in Lynette Spillman (ed.), [*Oxford Research Encyclopedia of Sociology*](https://academic.oup.com/edited-volume/63014) (New York, NY, online edn, Oxford Academic).
-1. Trinh, Nhat An, Hörl, Moritz, Scalese, Federico and Pop, Mihaela-Claudia. Forthcoming. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), [*Historical Social Research*](https://www.gesis.org/en/hsr).
+1. Trinh, Nhat An<sup>r</sup>, Hörl, Moritz<sup>r</sup>, Scalese, Federico<sup>r</sup> and Pop, Mihaela-Claudia<sup>r</sup>. Forthcoming. 'Stylized Facts about Attitudes towards Inequality: A Contrast between Income and Wealth' (with Moritz Hörl, Federico Scalese, and Mihaela-Claudia Pop), [*Historical Social Research*](https://www.gesis.org/en/hsr). <sup>r</sup> Random author order.
 1. Tisch, Daria, Schechtl, Manuel, and Trinh, Nhat An. 2026. ‘Intergenerationale Vermögensungleichheit: Erkenntnisse aus der Erbschaft- und Schenkungsteuerstatistik’, [*WISTA – Wirtschaft und Statistik*](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/05/wista-052026.pdf?__blob=publicationFile&v=4#page=61), 5:54–63.
 1. Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. 2026. 'The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families', [*Social Forces*](https://doi.org/10.1093/sf/soag010), 105(1):77–98. &#124; [replication files](https://osf.io/pj7s3/overview)
 1. Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian. 2026. ‘Wealth Concentration and Prosocial Behavior in Everyday Life’, [*Contexts*](https://doi.org/10.1177/15365042261442494).
@@ -56,7 +56,7 @@ Get in touch via [nhatan.trinh@wzb.eu](mailto:nhatan.trinh@wzb.eu).
 <div class="section-content" markdown="1">
 
 {:start="13"}
-9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *Resubmitted*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
+9. ‘Dynamics of Wealth Homogamy in Couples’ (with Philipp Lersch and Reinhard Schunck), *resubmitted*. &#124; [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
 12. ‘The Gender of Tax Expenditure: Evidence from German Administrative Records’ (with Manuel Schechtl, Nicole Kapelle, and Daria Tisch), *R&R*.
 12. ‘Consolidated Trajectories? Social Class and Earnings Growth over the Life-Course’ (with Philipp Lersch and Caspar Kaiser), *under review*. &#124; [working paper](https://osf.io/preprints/socarxiv/k6atw_v1)
 13. ‘Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality’ (with Daria Tisch and Manuel Schechtl), *under review*.

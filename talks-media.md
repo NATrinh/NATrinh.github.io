@@ -86,6 +86,11 @@ permalink: /talks-media/
 
 <div class="section-content" markdown="1">
 
+<a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_F51328FADC5411F17F8DB883034AF4D0" target="_blank" rel="noopener">
+  <img src="/assets/dlf-nova-wissen-unplugged.jpg" width="100%" alt="Wissen unplugged: Wie Ungleichheit die Demokratie gefährdet – Deutschlandfunk Nova">
+</a>
+<br>
+
 <a href="https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view" target="_blank">
   <img src="/assets/Podfollow.png" width="100%" alt="Wer erbt in Deutschland, und wer geht leer aus? – Tonspur Wissen">
 </a>
@@ -100,12 +105,6 @@ permalink: /talks-media/
     allowfullscreen>
   </iframe>
 </div>
-<br>
-
-<a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_F51328FADC5411F17F8DB883034AF4D0" target="_blank" rel="noopener">
-  <img src="/assets/dlf-nova-wissen-unplugged.jpg" width="100%" alt="Wissen unplugged: Wie Ungleichheit die Demokratie gefährdet – Deutschlandfunk Nova">
-</a>
-[Wissen unplugged: Wie Ungleichheit die Demokratie gefährdet – Deutschlandfunk Nova](https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=dira_F51328FADC5411F17F8DB883034AF4D0)
 <br>
 
 
