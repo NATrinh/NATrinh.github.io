@@ -16,7 +16,7 @@ Hi, I'm Nhat An. I am a sociologist at the [WZB Berlin Social Science Center](ht
 
 My research investigates trends, causes, and consequences of inequality with a focus on wealth, social class, and intergenerational transmission. My research has been published in the European Sociological Review, Journal of Social Policy, Research in Social Stratification and Mobility, Social Forces, and Socio-Economic Review among others.
 
-Previously, I held post-doctoral positions at the Department of Social Sciences, [Humboldt University Berlin](https://www.sowi.hu-berlin.de/en/index.html), and the Department of Social Policy and Intervention, [University of Oxford](https://www.spi.ox.ac.uk/). I obtained my PhD from the University of Oxford in 2022.
+Previously, I held post-doctoral positions at the Department of Social Sciences, [Humboldt University Berlin](https://www.sowi.hu-berlin.de/en/index.html), and the Department of Social Policy and Intervention, [University of Oxford](https://www.spi.ox.ac.uk/). I obtained my PhD from the University of Oxford.
 
 I am the co-founder and co-organisor of the [Berlin Network for Elite and Inequality Research](https://elitesandinequality.github.io/).
 
